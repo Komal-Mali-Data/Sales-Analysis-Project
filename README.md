@@ -8,9 +8,15 @@ This project presents a Sales Dashboard created using Power BI. It analyzes year
 - Orders Table
 - Product Table
 
+## 🐍 Data Cleaning (Python - Pandas)
+- Used Python (Pandas) for data cleaning and preprocessing
+- Handled missing values and corrected inconsistent data
+- Transformed raw data into a structured format
+- Exported the cleaned dataset into Excel for Power BI analysis
+
 ## 🔗 Data Modeling
-- Created relationships between tables
-- Performed data cleaning and transformation
+- Created relationships between multiple tables
+- Performed data transformation for better analysis
 
 ## 📈 Key Features
 - Interactive dashboard
@@ -19,7 +25,12 @@ This project presents a Sales Dashboard created using Power BI. It analyzes year
 
 ## 🧮 Tools & Technologies
 - Power BI
+- Python (Pandas)
 - DAX (Data Analysis Expressions)
+
+## 📌 Insights
+- Identified sales trends and patterns
+- Analyzed customer and product performance
 
 ## 📂 Files Included
 - Sales Dashboard (PDF) – for quick preview
